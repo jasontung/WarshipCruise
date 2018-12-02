@@ -8,7 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d591e54c4a728646adfd4634883241f, type: 3}
-  m_Name: ChangeRecordSessionCmd
+  m_Script: {fileID: 11500000, guid: bd128e25a6be61c468622e02c2fd9e24, type: 3}
+  m_Name: 160_DistanceFromCamCmd
   m_EditorClassIdentifier: 
-  sessionName: 
+  distance: 160
+  targetTag: Player

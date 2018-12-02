@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bd128e25a6be61c468622e02c2fd9e24, type: 3}
-  m_Name: 150_DistanceFromCamCmd 4
+  m_Name: 140_DistanceFromCamCmd
   m_EditorClassIdentifier: 
-  distance: 150
+  distance: 140
   targetTag: Player
