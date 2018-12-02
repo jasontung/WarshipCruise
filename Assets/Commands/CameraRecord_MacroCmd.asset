@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b28f13a27aa4a9f49a9d88a3448a1697, type: 3}
+  m_Name: CameraRecord_MacroCmd
+  m_EditorClassIdentifier: 
+  loopTimes: 1
+  commands:
+  - {fileID: 11400000, guid: d3953c9b747d1af48b77385f78ec0180, type: 2}
+  - {fileID: 11400000, guid: 8a47cc6700680a9468b6db1085a6b9a8, type: 2}
+  - {fileID: 11400000, guid: d3953c9b747d1af48b77385f78ec0180, type: 2}
+  - {fileID: 11400000, guid: 0cd558ac2ba96234fb77e5923178433c, type: 2}
+  - {fileID: 11400000, guid: d3953c9b747d1af48b77385f78ec0180, type: 2}
+  - {fileID: 11400000, guid: 57736d834b63e834ba21443ca1c1346d, type: 2}
+  - {fileID: 11400000, guid: d3953c9b747d1af48b77385f78ec0180, type: 2}
+  - {fileID: 11400000, guid: f8ee0ceed654e4b4a803292f38292c30, type: 2}
+  - {fileID: 11400000, guid: d3953c9b747d1af48b77385f78ec0180, type: 2}
+  - {fileID: 11400000, guid: b3e6958349bb29946aa9ca944f8144e7, type: 2}
+  - {fileID: 11400000, guid: d3953c9b747d1af48b77385f78ec0180, type: 2}
+  - {fileID: 11400000, guid: 41a52421bb7952f40b2d880c44f301dd, type: 2}
+  - {fileID: 11400000, guid: d3953c9b747d1af48b77385f78ec0180, type: 2}
+  - {fileID: 11400000, guid: 254e34253e49ad644ac9380be8029485, type: 2}
+  - {fileID: 11400000, guid: d3953c9b747d1af48b77385f78ec0180, type: 2}
+  - {fileID: 11400000, guid: 48d0730c64cbdb04d942805dc43ec23e, type: 2}
+  - {fileID: 11400000, guid: d3953c9b747d1af48b77385f78ec0180, type: 2}
+  - {fileID: 11400000, guid: 37b94b8043d28c74a8c2e1271020b6fa, type: 2}
+  - {fileID: 11400000, guid: d3953c9b747d1af48b77385f78ec0180, type: 2}

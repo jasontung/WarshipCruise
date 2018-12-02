@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b28f13a27aa4a9f49a9d88a3448a1697, type: 3}
+  m_Name: 0_90_LookAround_MacroCmd
+  m_EditorClassIdentifier: 
+  loopTimes: 3
+  commands:
+  - {fileID: 11400000, guid: d07523029d935604fa62ed8204864be3, type: 2}
+  - {fileID: 11400000, guid: f1941379d3b615d40aade4cf1c66a67f, type: 2}

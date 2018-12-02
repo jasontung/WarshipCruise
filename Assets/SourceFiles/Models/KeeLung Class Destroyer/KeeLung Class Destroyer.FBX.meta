@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 7ff38b6b5009de944b6950be8bfe9187
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder01
+    100002: Cylinder1194
+    100004: Cylinder1195
+    100006: Cylinder1209
+    100008: JL-BSXTTX
+    100010: JL-CS
+    100012: JL-CT
+    100014: Jl-DDFSJ-MK
+    100016: Jl-DDFSJ-MK 1
+    100018: Jl-DDFSXT-MK
+    100020: Jl-DDFSXT-MK 1
+    100022: Jl-DKLD-AN/SPS-49(V)5
+    100024: JL-DZXT-AN/SLQ-32
+    100026: Jl-FZKP-CIWS
+    100028: Jl-FZKP-CIWS 1
+    100030: JL-HMP-MK-45
+    100032: JL-HMP-MK-46
+    100034: Jl-HPSKXT-MK-86
+    100036: Jl-HPSKXT-MK-86 1
+    100038: JL-JB
+    100040: JL-PMLD-AN/SPS-55
+    100042: Jl-SN-AN/SQS-53D
+    100044: JL-SWDKLD-AN/SPS-48E
+    100046: JL-TKDHY-URN-25
+    100048: JL-TPXTTX
+    100050: JL-TXZZXT-SYR-1
+    100052: JL-XBJ
+    100054: JL-YCDD-SWQ-1A
+    100056: JL-YCDD-SWQ-1A 1
+    100058: JL-YLFSXT-MK-32
+    100060: JL-YLFSXT-MK-32 1
+    100062: JL-ZL
+    100064: JL-ZSJJB
+    100066: JL-ZZZHQ-AN/SYS-2
+    100068: //RootNode
+    100070: Object10
+    100072: Object23
+    100074: Plane01
+    100076: Shape14
+    400000: Cylinder01
+    400002: Cylinder1194
+    400004: Cylinder1195
+    400006: Cylinder1209
+    400008: JL-BSXTTX
+    400010: JL-CS
+    400012: JL-CT
+    400014: Jl-DDFSJ-MK
+    400016: Jl-DDFSJ-MK 1
+    400018: Jl-DDFSXT-MK
+    400020: Jl-DDFSXT-MK 1
+    400022: Jl-DKLD-AN/SPS-49(V)5
+    400024: JL-DZXT-AN/SLQ-32
+    400026: Jl-FZKP-CIWS
+    400028: Jl-FZKP-CIWS 1
+    400030: JL-HMP-MK-45
+    400032: JL-HMP-MK-46
+    400034: Jl-HPSKXT-MK-86
+    400036: Jl-HPSKXT-MK-86 1
+    400038: JL-JB
+    400040: JL-PMLD-AN/SPS-55
+    400042: Jl-SN-AN/SQS-53D
+    400044: JL-SWDKLD-AN/SPS-48E
+    400046: JL-TKDHY-URN-25
+    400048: JL-TPXTTX
+    400050: JL-TXZZXT-SYR-1
+    400052: JL-XBJ
+    400054: JL-YCDD-SWQ-1A
+    400056: JL-YCDD-SWQ-1A 1
+    400058: JL-YLFSXT-MK-32
+    400060: JL-YLFSXT-MK-32 1
+    400062: JL-ZL
+    400064: JL-ZSJJB
+    400066: JL-ZZZHQ-AN/SYS-2
+    400068: //RootNode
+    400070: Object10
+    400072: Object23
+    400074: Plane01
+    400076: Shape14
+    2100000: 'Material #30'
+    2100002: 'Material #474'
+    2100004: 06 - Default
+    2100006: 04 - Default
+    2100008: ssasd
+    2100010: 'Material #1348'
+    2100012: 'Material #1349'
+    2100014: 22 - Default
+    2100016: 'Material #376dsfsdf'
+    2100018: 'Material #2'
+    2100020: 'Material #376'
+    2100022: 11 - Default
+    2100024: 18 - Default
+    2100026: "\u70DF\u56F1"
+    2300000: Cylinder01
+    2300002: Cylinder1194
+    2300004: Cylinder1195
+    2300006: Cylinder1209
+    2300008: JL-BSXTTX
+    2300010: JL-CS
+    2300012: JL-CT
+    2300014: Jl-DDFSJ-MK
+    2300016: Jl-DDFSJ-MK 1
+    2300018: Jl-DDFSXT-MK
+    2300020: Jl-DDFSXT-MK 1
+    2300022: Jl-DKLD-AN/SPS-49(V)5
+    2300024: JL-DZXT-AN/SLQ-32
+    2300026: Jl-FZKP-CIWS
+    2300028: Jl-FZKP-CIWS 1
+    2300030: JL-HMP-MK-45
+    2300032: JL-HMP-MK-46
+    2300034: Jl-HPSKXT-MK-86
+    2300036: Jl-HPSKXT-MK-86 1
+    2300038: JL-JB
+    2300040: JL-PMLD-AN/SPS-55
+    2300042: Jl-SN-AN/SQS-53D
+    2300044: JL-SWDKLD-AN/SPS-48E
+    2300046: JL-TKDHY-URN-25
+    2300048: JL-TPXTTX
+    2300050: JL-TXZZXT-SYR-1
+    2300052: JL-XBJ
+    2300054: JL-YCDD-SWQ-1A
+    2300056: JL-YCDD-SWQ-1A 1
+    2300058: JL-YLFSXT-MK-32
+    2300060: JL-YLFSXT-MK-32 1
+    2300062: JL-ZL
+    2300064: JL-ZSJJB
+    2300066: JL-ZZZHQ-AN/SYS-2
+    2300068: Object10
+    2300070: Object23
+    2300072: Plane01
+    2300074: Shape14
+    3300000: Cylinder01
+    3300002: Cylinder1194
+    3300004: Cylinder1195
+    3300006: Cylinder1209
+    3300008: JL-BSXTTX
+    3300010: JL-CS
+    3300012: JL-CT
+    3300014: Jl-DDFSJ-MK
+    3300016: Jl-DDFSJ-MK 1
+    3300018: Jl-DDFSXT-MK
+    3300020: Jl-DDFSXT-MK 1
+    3300022: Jl-DKLD-AN/SPS-49(V)5
+    3300024: JL-DZXT-AN/SLQ-32
+    3300026: Jl-FZKP-CIWS
+    3300028: Jl-FZKP-CIWS 1
+    3300030: JL-HMP-MK-45
+    3300032: JL-HMP-MK-46
+    3300034: Jl-HPSKXT-MK-86
+    3300036: Jl-HPSKXT-MK-86 1
+    3300038: JL-JB
+    3300040: JL-PMLD-AN/SPS-55
+    3300042: Jl-SN-AN/SQS-53D
+    3300044: JL-SWDKLD-AN/SPS-48E
+    3300046: JL-TKDHY-URN-25
+    3300048: JL-TPXTTX
+    3300050: JL-TXZZXT-SYR-1
+    3300052: JL-XBJ
+    3300054: JL-YCDD-SWQ-1A
+    3300056: JL-YCDD-SWQ-1A 1
+    3300058: JL-YLFSXT-MK-32
+    3300060: JL-YLFSXT-MK-32 1
+    3300062: JL-ZL
+    3300064: JL-ZSJJB
+    3300066: JL-ZZZHQ-AN/SYS-2
+    3300068: Object10
+    3300070: Object23
+    3300072: Plane01
+    3300074: Shape14
+    4300000: JL-CT
+    4300002: JL-CS
+    4300004: Jl-DKLD-AN/SPS-49(V)5
+    4300006: JL-JB
+    4300008: JL-HMP-MK-45
+    4300010: JL-ZL
+    4300012: Jl-DDFSJ-MK
+    4300014: Jl-DDFSJ-MK
+    4300016: JL-XBJ
+    4300018: Jl-HPSKXT-MK-86
+    4300020: Jl-DDFSXT-MK
+    4300022: Jl-DDFSXT-MK
+    4300024: Jl-HPSKXT-MK-86
+    4300026: Jl-FZKP-CIWS
+    4300028: JL-YCDD-SWQ-1A
+    4300030: JL-YCDD-SWQ-1A
+    4300032: Jl-FZKP-CIWS
+    4300034: Jl-SN-AN/SQS-53D
+    4300036: JL-SWDKLD-AN/SPS-48E
+    4300038: JL-PMLD-AN/SPS-55
+    4300040: JL-TKDHY-URN-25
+    4300042: JL-DZXT-AN/SLQ-32
+    4300044: JL-YLFSXT-MK-32
+    4300046: JL-YLFSXT-MK-32
+    4300048: JL-ZZZHQ-AN/SYS-2
+    4300050: JL-BSXTTX
+    4300052: JL-TPXTTX
+    4300054: JL-TXZZXT-SYR-1
+    4300056: JL-ZSJJB
+    4300058: Plane01
+    4300060: Cylinder01
+    4300062: JL-HMP-MK-46
+    4300064: Shape14
+    4300066: Cylinder1195
+    4300068: Object23
+    4300070: Object10
+    4300072: Cylinder1194
+    4300074: Cylinder1209
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 5e87430ab22006744a01eab88e182ddc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: ba4d576dcb393664e9b32129374bbf56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11 - Default
+    second: {fileID: 2100000, guid: c45637c13918375418ad6ec124d45ff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Default
+    second: {fileID: 2100000, guid: 46b300aef14fb7e4c9879e905475c02f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 - Default
+    second: {fileID: 2100000, guid: 75e51bb01e4e3d94a8631385c56da142, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1348'
+    second: {fileID: 2100000, guid: 72ea374b0ccddb04d85c4db2a8338491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1349'
+    second: {fileID: 2100000, guid: 4da08b75b27978e4abc06a5f0d4b5e64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: 54bc79709419e2e46b8517fd8afc44f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: 4a2ffacfa5441c649bb0004bcf732b7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #376'
+    second: {fileID: 2100000, guid: 88cbf36c9a4897a408732fa5646d8279, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #376dsfsdf'
+    second: {fileID: 2100000, guid: 01746a685a4725f48910d40e56a41ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #474'
+    second: {fileID: 2100000, guid: 810a67ff9cc46cb42b04ab9f91e84137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ssasd
+    second: {fileID: 2100000, guid: 9eac48d5504b2004ca443bfca5dc3c81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u70DF\u56F1"
+    second: {fileID: 2100000, guid: 9a69a67dc89f3dc42ac279e3f13ef895, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
